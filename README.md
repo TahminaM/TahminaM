@@ -13,3 +13,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
+[![Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=TahminaM)](https://github.com/TahminaM/github-readme-stats)

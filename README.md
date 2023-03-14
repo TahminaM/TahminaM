@@ -14,3 +14,5 @@
 - ⚡ Fun fact: ...
 
 (https://github-readme-stats.vercel.app/api/top-langs/?username=TahminaM)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TahminaM)](https://github.com/anuraghazra/github-readme-stats)
